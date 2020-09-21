@@ -1,0 +1,23 @@
+{
+  "name": "webframe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:db": "json-server -w db.json",
+    "start:parcel": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronJCunningham/Web-Framework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronJCunningham/Web-Framework/issues"
+  },
+  "homepage": "https://github.com/AaronJCunningham/Web-Framework#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
